@@ -79,3 +79,6 @@ replace github.com/gocql/gocql => github.com/grafana/gocql v0.0.0-20200605141915
 
 // Same as Cortex, we can't upgrade to grpc 1.30.0 until go.etcd.io/etcd will support it.
 replace google.golang.org/grpc => google.golang.org/grpc v1.29.1
+
+// use yinchuang cortex storage backend and tsdb
+replace github.com/cortexproject/cortex/pkg/storage/tsdb => github.com/yinchuang/cortex/pkg/storage/tsdb v1.2.1-0.20200803161316-7014ff11ed70

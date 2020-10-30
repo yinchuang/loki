@@ -1441,3 +1441,4 @@ sigs.k8s.io/yaml
 # github.com/satori/go.uuid => github.com/satori/go.uuid v1.2.0
 # github.com/gocql/gocql => github.com/grafana/gocql v0.0.0-20200605141915-ba5dc39ece85
 # google.golang.org/grpc => google.golang.org/grpc v1.29.1
+# github.com/cortexproject/cortex/pkg/storage/tsdb => github.com/yinchuang/cortex/pkg/storage/tsdb v1.2.1-0.20200803161316-7014ff11ed70
